@@ -1,0 +1,23 @@
+{
+  "name" : "PCK.A",
+  "description" : "",
+  "repository" : {
+    "type" : "file",
+    "branch" : "master",
+    "url" : "file:///home/khiem/automic/pck.a.tar.gz",
+    "devel" : { },
+    "head" : { },
+    "version" : "2.0.0",
+    "sha1" : "7d74e5528daf0891643a0ba1f6cc4b8c0b7a5802",
+    "dependencies" : {
+      "PCK.H" : "~>2.0",
+      "PCK.C" : ">=3.0",
+      "PCK.B" : "~>2.0"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "test",
+  "title" : "Package A"
+}
