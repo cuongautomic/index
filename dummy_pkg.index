@@ -1,0 +1,19 @@
+{
+  "name" : "DUMMY_PKG",
+  "description" : "",
+  "repository" : {
+    "type" : "file",
+    "branch" : "master",
+    "url" : "file:///home/khiem/automic/packages/DUMMY_PKG_0.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "0.1.0",
+    "sha1" : "365c038b6c3cce6fd968d3936e61139021861b8e",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "NEW.PACKAGE"
+}
